@@ -12,8 +12,8 @@
   }
   .bagimage_home {
     height:100vh;
-    background: url('images/home.jpg');
     background-size:cover;
+	background: url('images/landing.JPG');
     position:relative;
   }
   /* text css above sidh image*/
